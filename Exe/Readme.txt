@@ -4,7 +4,7 @@
 ●基本
 移動：WASD
 ジャンプ：Space
-カーソル表示：Esc
+カーソル表示切り替え：Esc
 上に移動：LShift
 下に移動：LCtrl
 
